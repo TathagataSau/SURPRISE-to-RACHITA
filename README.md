@@ -1,4 +1,3 @@
-<!doctype html>
 <html>
 <head> <link rel="stylesheet" href="oo.css"> <title>SURPRISE to RACHITA</title>  
 </head>
