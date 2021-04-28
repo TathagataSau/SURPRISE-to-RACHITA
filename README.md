@@ -2,7 +2,8 @@
 <head> <link rel="stylesheet" href="oo.css"> <title>SURPRISE to RACHITA</title>  
 </head>
 
-<body ><h1 style=color:burlywood> SURPRISE "._,"</h1>
+<body >
+<h1 style="color:burlywood"> SURPRISE "._,"</h1>
     
 <img src="WhatsApp Image 2021-04-28 at 7.21.12 PM.jpeg" hight="200" width=" 400">
 <h1 style="color:red">R_A_C_H_I_T_A</h1>
